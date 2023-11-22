@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_payment_paypal_buttons",
+  "info": {
+    "displayName": "paypal_button",
+    "icon": "handHeart"
+  },
+  "options": {},
+  "attributes": {
+    "link": {
+      "type": "string"
+    }
+  }
+}
